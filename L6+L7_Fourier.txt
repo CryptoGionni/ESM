@@ -1,0 +1,39 @@
+
+56)	Il segnale da trasformare con Fourier, di che tipo è
+57)	Come sarà la trasformata di Fourier se campioniamo nel tempo
+58)	Ogni quanto campionare il segnale di input analogico per ottenere un risultato reversibile
+59)	Perché ci serve vedere la trasformata campionata con il fasore
+60)	Perché normalizzare la trasformata del segnale
+61)	Perché utilizzare Fourier per le  elaborazioni di immagini
+62)	Quale è il kernel di Fourier
+63)	Come ottengo uno spettro continuo
+64)	Ogni quanto campionare la trasformata di Fourier
+65)	Perché devo sovracampionare la trasformata di Fourier
+66)	Perché i dettagli non sono ben rappresentati con la trasformata  di Fourier
+67)	Perché è importante la DFT
+68)	Separando gli elementi della sommatoria di Fourier a cosa assomiglia
+69)	Utilizzando Fourier con cosa sto confrontando il segnale
+70)	Il vettore di Fourier è il prodotto tra chi
+71)	Quali sono le caratteristiche della matrice W di base di Fourier
+72)	Perché moltiplico il coniugato di W con 1N
+73)	Come sono tra loro i fasori della sintesi e di analisi
+74)	Cosa sono “mi” e “ni” della trasformata di Fourier discreta
+75)	Perché il fasore è separabile
+76)	Perché abbiamo introdotto i numeri complessi
+77)	Perché ci è comodo che Fourier sia separabile
+78)	Quale è il lato negativo della separabilità di Fourier
+79)	Perché se applico la fft vedo una immagine scura cogli angoli bianchi
+80)	Quale è e dove trovo i valori più alti di Fourier
+81)	Perché dopo l’enhancement con il log, vedo una griglia
+82)	Perché Fourier inverte le direzioni
+83)	Come sono rappresentate in Fourier le zone a lenta variazione di luminosità
+84)	Perché la fase è più importante  del modulo nella ricostruzione dell’img originale
+85)	Cosa è una convoluzione in frequenza
+86)	Che effetto genera un filtro LP
+87)	Perché i filtri “ideali” sono detti tali
+88)	Perché esiste l’effetto di ringing
+89)	Cosa fa un filtro HP
+90)	perché un filtro gaussiano risolve l’effetto di ringing
+91)	Se volessi, come prendo poche frequenze alte usando un gaussian filter
+92)	Perché non posso lavorare con la Fourier di un discreto ma devo discretizzare Fourier
+93)	Su quanti punti calcolare la DFT nel 2D

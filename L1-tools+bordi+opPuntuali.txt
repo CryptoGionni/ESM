@@ -1,0 +1,13 @@
+L1.1)	Su che tipo di immagine lavoriamo?
+L1.2)	Come mi danno i dati dell’immagine?
+L1.3)	In quali domini è possibile lavorare una img?
+L1.4)	Quale è una prima visualizzazione dei dati?
+L1.5)	Perché introduco i concetti di probabilità?
+L1.6)	Come vedo se tende al chiaro o allo scuro?
+L1.7)	Come vedo quanto i valori di grigio si discostano dalla media?
+L1.8)	Quale concetto introduco per la media locale?
+L1.9)	Come risolvo la media locale sui bordi?
+L1.10)	Quali sono i 4 tipi di elaborazioni che possiamo fare?
+L1.11)	Come si schiarisce una immagine?
+L1.12)	Come si fa il negativo di una img?
+L1.13)	Perché devo specificare [0,255] su python?

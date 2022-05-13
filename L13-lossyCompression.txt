@@ -1,0 +1,17 @@
+149)	Quali sono i tipi di compressione di immagini?
+150)	Quali sono i tipi di ridondanza dati nelle immagini?
+151)	Perché serve comprimere?
+152)	Quale è la misura dell’informazione?
+153)	Perché è importante l’analogia con il codice morse?
+154)	Quali sono i due compromessi della lossy compression?
+155)	Come si interpreta il grafico Distorction-Rate?
+156)	Quale è il modello generale della lossy compression?
+157)	Quale è lo scopo della quantizzazione scalare?
+158)	Quale è lo scopo della decorrelazione della lossy compression?
+159)	Quale è la differenza tra quantizzazione vettoriale e scalare?
+160)	Come si può fare la decorrelazione della lossy compression?
+161)	Cosa trasmetto con l’errore di predizione della lossy compression?
+162)	Perché è importante usare la predizione della lossy compression?
+163)	Quale è la predizione lineare più semplice?
+164)	Quale è il modello codifica-decodifica?
+165)	Quale è il problema di trovare la predizione nella decodifica?

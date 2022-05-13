@@ -1,0 +1,12 @@
+L3.22)	Cosa è un bit plane?
+L3.23)	Come estraggo l’informazione principale di una img dai bit plane?
+L3.24)	Come posso usare il bit plane meno significativo?
+L3.25)	Per cosa sfrutto le operazioni aritmetiche?
+L3.26)	Come lavorano le operazioni geometriche?
+L3.27)	Come avvengono le trasformazioni geometriche?
+L3.28)	Come si fa lo zoom?
+L3.29)	Come opera il ridimensionamento su una sola riga della matrice?
+L3.30)	Cosa fa l’interpolazione?
+L3.31)	Dove si nota la necessità di una buona interpolazione?
+L3.32)	Come si ridimensiona una intera matrice?
+L3.33)	Oltre il ridimensionamento quali operazioni su affini ci sono?

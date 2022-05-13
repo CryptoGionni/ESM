@@ -1,0 +1,17 @@
+57)	Quali sono i due tipi di segmentazione?
+58)	Quale è il flusso di sistemi per la segmentazione edge-based?
+59)	Quale è lo scopo della segmentazione?
+60)	Quale è la distribuzione dei pesi nell’operazione point detection?
+61)	Che valori avrà l’img risultante per trovare tutte le linee per line detection?
+62)	Quali sono i due tipi di derivate dell’edge-detection?
+63)	Cosa sono i filtri di Prenitt e Sobel?
+64)	Quali sono i filtri edge detection con riduzione del rumore?
+65)	Quali sono i due step del LOG per edge detection?
+66)	Quale è il grafico di un LOG?
+67)	Che tool usa la canny edge detection?
+68)	Cosa fa la non maxima suppression?
+69)	Perché si utilizza la doppia soglia nel canny edge detection?
+70)	Cosa significa clustering?
+71)	Come lavora l’algoritmo k-means?
+72)	Che tipo di quantizzazione opera il k-means?
+73)	perché la media è la scelta giusta per minimizzare la distanza euclidea dal template agli elementi della classe?

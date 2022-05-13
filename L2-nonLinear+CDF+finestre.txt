@@ -1,0 +1,8 @@
+L2.14)	Quando non posso usare il FSHS?
+L2.15)	Cosa fa la trasformata esponenziale?
+L2.16)	Quale è la differenza tra log e exp (tra 0 e 1)?
+L2.17)	Come rendo uniformi i valori di una img?
+L2.18)	Come si procede per una elaborazione locale di una img?
+L2.19)	Cosa devo esaltare se l’img è scura e a basso contrasto?
+L2.20)	Come trovo i pixel da esaltare in una elaborazione locale?
+L2.21)	Quali sono i comandi python per la finestra scorrevole?

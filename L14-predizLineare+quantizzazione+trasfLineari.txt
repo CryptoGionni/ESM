@@ -1,0 +1,23 @@
+
+166)	A cosa serve la predizione?
+167)	Perché il disallineamento tra codifica e decodifica è un problema?
+168)	Da cosa dipende il valore dell’errore di predizione?
+169)	Perché il primo valore dell’errore di predizione lo trasmetto uguale?
+170)	Quali valori andiamo a quantizzare?
+171)	Quali valori vorrei ricevere?
+172)	Perché la quantizzazione è un problema di probabilità?
+173)	Quando uso la distribuzione uniforme?
+174)	Come modifico il sistema di dec/codifica per avere errore di trasmissione piccolo?
+175)	Perché la retroazione funziona per diminuire l’errore di trasmissione?
+176)	Quale è la definizione matematica di quantizzazione?
+177)	Cosa devo definire per progettare un quantizzatore?
+178)	Perché best case su errore di predizione ha distribuzione laplaciana?
+179)	Perché non trasmettere proprio l’errore quantizzato?
+180)	Quali algoritmo conosciuto esegue quantizzazione?
+181)	Perché di solito non si usa la quantizzazione vettoriale?
+182)	Quale è la differenza tra predizione e trasformazione?
+183)	Cosa e come compatta Fourier?
+184)	Perché DCT è diversa da Fourier?
+185)	Quali sono i passaggi di codifica di JPEG?
+186)	Perché Fourier non è ottimale né per quantizzazione né per le variazioni?
+

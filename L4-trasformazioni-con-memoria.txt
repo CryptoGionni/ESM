@@ -1,0 +1,9 @@
+L4.34)	Cosa si intende con trasformazioni con memoria?
+L4.35)	perché la media è legata al concetto di sfocatura?
+L4.36)	A quale concetto matematico è legata la misura di una somiglianza?
+L4.37)	Cosa significa spazio invariante?
+L4.38)	Come si definisce un filtro?
+L4.39)	Come deve essere una maschera per estrarre una informazione da una img?
+L4.40)	Quanto è lungo l’output di un filtraggio?
+L4.41)	Come si evidenziano i dettagli?
+L4.42)	Come addolcisco i dettagli?

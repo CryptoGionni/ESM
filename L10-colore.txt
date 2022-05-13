@@ -1,0 +1,10 @@
+86)	Come funziona il nostro sensore occhio?
+87)	Come funziona la luce e la sua lunghezza d’onda?
+88)	Come trovo i colori secondari come composizione di tre primi?
+89)	Perché abbiamo bisogno dello standard di colori?
+90)	Come prendo il piano che taglia XYZ dello standard?
+91)	Come ottengo il bianco nello spazio colore RGB?
+92)	Che forma ha e dove lo individuo il piano RGB?
+93)	Come ottengo lo spazio HSI?
+94)	Cosa rappresentano H,S,I?
+95)	Come genero i colori stampati su oggetti?

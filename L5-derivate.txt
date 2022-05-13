@@ -1,0 +1,13 @@
+L5.43)	Per cosa uso le derivate?
+L5.44)	Perché le due derivate prime sono ambe errate?
+L5.45)	Cosa è la derivata seconda nel discreto?
+L5.46)	Cosa rappresentano le derivate seconde a due variabili?
+L5.47)	Quali bordi rilevo derivando rispetto alle righe?
+L5.48)	Che tipo di feature mi dà la derivata?
+L5.49)	Come ottengo una mappa di segmentazione?
+L5.50)	A cosa serve il laplaciano?
+L5.51)	Come applico il laplaciano per l’enhancement?
+L5.52)	Come si risolve il sale e pepe?
+L5.53)	Come si misura la somiglianza di un’img ad un’altra?
+L5.54)	Come si misura la pulizia di un segnale rispetto al rumore?
+L5.55)	Come si misura la qualità di ricostruzione di una img compressa lossy?

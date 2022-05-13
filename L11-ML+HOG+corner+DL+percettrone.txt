@@ -1,0 +1,30 @@
+96)	Cosa è e come deve essere un vettore di feature?
+97)	Quali tipi di descrittori esistono?
+98)	Cosa è il “grdient orientation”?
+99)	Quali descrittori usano il gradient orientation?
+100)	Quale è l’output dell’ HOG?
+101)	Quali sono i 4 step dell’HOG?
+102)	Come si assegnano i pesi nell’HOG?
+103)	Perché  usare i key points?
+104)	Dove si applicano i key points?
+105)	Quali sono i tre tipi di key points?
+106)	Perché i corner sono così importanti?
+107)	Quale è la strategia concettuale per trovare i corner?
+108)	Che tipo di regioni identificano i corner, edge e flat?
+109)	Come si sfrutta la distanza euclidea per trovare i corner?
+110)	Cosa significa SSD?
+111)	Come individuo i key points sfruttando i corner?
+112)	Cosa significa classificare in ML?
+113)	Come si fa a classificare in ML?
+114)	Quali sono le differenza tra ML e DL?
+115)	Quali sono i pro e contro di ML e DL visibili nel grafico?
+116)	Perché il data-driven è meglio?
+117)	Come si prendono le decisioni in 4 step?
+118)	Cosa è il bias?
+119)	Quale è la parte appresa dalla macchina di un percettrone?
+120)	Che struttura ha il cervello?
+121)	Che organizzazione ha il percettrone multilivello?
+122)	Come ottimizzare il numero di collegamenti nei percettroni?
+123)	Che struttura avrebbe il percettrone se fossero tutte operazioni lineari?
+124)	Quali sono le 4 caratteristiche della CNN?
+125)	Cosa è l’ “explainable” DL?

@@ -1,0 +1,22 @@
+
+128)	Input del DL: che tipo sono e che trattamento ricevono?
+129)	Come riduco la complessità tra gli strati?
+130)	Quali caratteristiche aveva la prima rete nel 2012?
+131)	Quale è stata la svolta per le CNN?
+132)	Cosa è MNIST?
+133)	Quali applicazioni può avere la CNN?
+134)	Quali sono gli step della CNN per image recognition?
+135)	Cosa apprende la CNN con l’addestramento?
+136)	Cosa è la predizione della CNN?
+137)	Quali sono i passi per apprendere i pesi?
+138)	A cosa si riduce il problema dell’apprendimento?
+139)	Quale è l’approccio statistico per l’apprendimento dei pesi?
+140)	Perché la loss function ha il logaritmo e il segno meno?
+141)	Come trovo il minimo della funzione loss function?
+142)	Cosa indica il learning rate?
+143)	Cosa è la backpropagation?
+144)	Cosa è l’overfitting?
+145)	Cosa è la data augmentation e quali benefici ottengo?
+146)	Perché modificare con cut-off le immgaini del training set?
+147)	Come lavora il fine tuning?
+148)	Cosa fare se ho small training set?

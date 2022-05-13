@@ -1,0 +1,14 @@
+72)	Quali sono le fasi del ML?
+73)	Quali sono i tre tipi di ML?
+74)	Quali sono tre caratteristiche base per un buon ML?
+75)	A cosa devono essere invarianti le feature?
+76)	Quali sono le tre caratteristiche del vettore di feature?
+77)	Cosa sono i pattern locali?
+78)	Quali sono le tre fasi del LBP?
+79)	Su cosa lavora il kernel del LBP?
+80)	Quanti e quali pattern posso trovare con LBP?
+81)	Quale è l’output dell’LBP?
+82)	Come si irrobustisce un vettore di feature a rotazione?
+83)	Quali sono i tre step del LPQ?
+84)	Perché si usa proprio la fase nel LPQ?
+85)	Perché LPQ lavora solo su metà blocco?

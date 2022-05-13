@@ -1,0 +1,24 @@
+
+225)	Perché Fourier non vede i pattern spaziali?
+226)	Quali sono i pesi della combinazione lineare di Fourier?
+227)	Perché non usiamo in py Fourier nella forma matriciale?
+228)	Perché è importante togliere ridondanza?
+229)	Cosa significa cambiare spazio?
+230)	Perché ci serve la trasformata inversa?
+231)	Perché i fasori sono ortogonali?
+232)	Perché Fourier conserva l’energia?
+233)	Cosa è concettualmente l’energia?
+234)	Matematicamente, come si dimostra la conservazione dell’energia?
+235)	Con quale segnale la trasformata di Fourier è reale?
+236)	Come rendo pari un segnale?
+237)	Quali sono i passaggi matematici per passare dalla DFT alla DCT?
+238)	Quali sono i pesi della matrice della DCT?
+239)	Perché la DCT è separabile?
+240)	Quali sono i due scopi principali dell’uso della trasformata?
+241)	Quale è la componente principale di un vettore con la PCA?
+242)	Perché è una cosa buona avere le basi ortogonali?
+243)	Che analogia c’è tra il prodotto scalare della PCA e Fourier?
+244)	Perché diciamo che Parseval generalizza Pitagora?
+245)	Come faccio a capire quale base scegliere per la PCA?
+246)	Quale tipo di dipendenza elimina la PCA?
+247)	Cosa posso fare se i dati non sono correlati?
